@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759240662 source:d:\documentos\kyprogra1\30deseparchivobinario\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
