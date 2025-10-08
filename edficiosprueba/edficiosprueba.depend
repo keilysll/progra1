@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759956693 source:c:\users\casss.casas\onedrive\documentos\codeblockys\edficiosprueba\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
