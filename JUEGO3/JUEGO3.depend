@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762867094 source:d:\documentos\kyprogra1\juego3\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+
