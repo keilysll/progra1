@@ -1,0 +1,10 @@
+Jugador: keily | Nivel: Facil | Puntos: 15 | Correctas: 2 | Incorrectas: 1 | Precision: 66.6667%
+Jugador: ana | Nivel: Facil | Puntos: 15 | Correctas: 2 | Incorrectas: 1 | Precision: 66.6667%
+Jugador: keily | Nivel: Facil | Puntos: 5 | Correctas: 1 | Incorrectas: 1 | Precision: 50%
+Jugador: keily | Nivel: Facil | Puntos: 50 | Correctas: 5 | Incorrectas: 0 | Precision: 100%
+Jugador: keily | Nivel: Facil | Puntos: 15 | Correctas: 2 | Incorrectas: 1 | Precision: 66.6667%
+Jugador: keily | Nivel: Facil | Puntos: 25 | Correctas: 3 | Incorrectas: 1 | Precision: 75%
+Jugador: keily | Nivel: Facil | Puntos: 80 | Correctas: 8 | Incorrectas: 0 | Precision: 100%
+Jugador: keily | Nivel: Facil | Puntos: 35 | Correctas: 4 | Incorrectas: 1 | Precision: 80%
+Jugador: keily | Nivel: Facil | Puntos: 25 | Correctas: 3 | Incorrectas: 1 | Precision: 75%
+Jugador: keily | Nivel: Facil | Puntos: 90 | Correctas: 9 | Incorrectas: 0 | Precision: 100%

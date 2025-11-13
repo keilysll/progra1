@@ -1,0 +1,6 @@
+sol
+luna
+perro
+gato
+flor
+mesa
