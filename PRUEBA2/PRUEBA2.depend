@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1763581943 source:c:\users\casss.casas\onedrive\documentos\codeblockys\prueba2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+	<cstring>
+
