@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1763508511 source:c:\users\casa\documents\codeblocks ky\defjuego2\main.cpp
+	<fstream>
+	<iostream>
+	<windows.h>
+	<cstring>
+	<conio.h>
+	<cctype>
+	<ctime>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1763520927 source:c:\users\casa\documents\codeblocks ky\juegodosmat\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+
