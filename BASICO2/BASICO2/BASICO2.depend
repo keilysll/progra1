@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1763516349 source:c:\users\casa\documents\codeblocks ky\basico2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+

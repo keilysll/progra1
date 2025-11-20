@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1763608713 source:c:\users\casa\documents\codeblocks ky\juegodoskey\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+
