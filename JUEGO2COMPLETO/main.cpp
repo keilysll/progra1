@@ -193,23 +193,29 @@ int DecimalaBinario(int n) {
 // FUNCIONES VISUALES: explican procedimientos paso a paso
 // ---------------------------------------------------------------------------
 // Explica multiplicación por descomposición
-void demoMultiplicacion(int a, int b) {
-    cout << "\n=== EXPLICACIÓN DE MULTIPLICACIÓN ===\n";
-    int resultadoFinal = 0, factor = 1, multiplicador = b;
+void explicarMultiplicacionColumna(int a, int b) {
+    cout << "\n=== EXPLICACION DE MULTIPLICACION EN COLUMNA ===\n";
 
-    // procesa cada dígito del multiplicador
+    int resultadoFinal = 0;  // Almacenara el resultado total
+    int factor = 1;          // Indica la posición (unidades, decenas, centenas)
+    int multiplicador = b;   // Copia de b para descomponerlo en digitos
+
+
     while (multiplicador > 0) {
-        int dig = multiplicador % 10;
-        int parcial = a * dig;
-        cout << a << " x " << dig << " = " << parcial << endl;
-
-        resultadoFinal += parcial * factor;
-        multiplicador /= 10;
-        factor *= 10;
+        int digito = multiplicador % 10;       // Obtiene el ultimo digito de b
+        int parcial = digito * a;              // Multiplica a por ese digito
+        cout << a << " x " << digito << " = " << parcial;
+        if (factor > 1) cout << " (posicion " << factor << ")";
+        cout << "\n";
+        resultadoFinal += parcial * factor;    // Acumula el resultado considerando la posicion
+        multiplicador /= 10;                   // Elimina el ultimo digito
+        factor *= 10;                          // Pasa a la siguiente posicion
     }
 
+    cout << "Suma de resultados parciales = " << resultadoFinal << "\n";
     cout << "Resultado final: " << resultadoFinal << "\n";
 }
+
 // Explica división como restas sucesivas
 void demoDivision(int a, int b) {
    cout << "\n=== EXPLICACIÓN VISUAL DE DIVISIÓN ===\n";
@@ -467,3 +473,4 @@ int main() {
     cout << "\nArchivo actualizado.\nGracias por jugar.\n";
     return 0;
 }
+
